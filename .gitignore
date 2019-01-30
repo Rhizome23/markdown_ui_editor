@@ -1,0 +1,11 @@
+/__pycache__ 
+/bin
+/build
+/dist
+/include
+/lib
+/lib64
+editor.ui
+main.spec
+pip-selfcheck.json
+pyvenv.cfg
